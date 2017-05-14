@@ -39,6 +39,17 @@ http://undertale.com
 專案網站：https://github.com/Vdragon/Undertale-the-Unofficial-Movie-Compilation
 ```
 
+## 影片描述前導劇透警告與遊戲推廣文字<br>Video Description Leading Spoiler Warnings and Game Promotion Text
+### 英文<br>English
+SPOILER WARNING: This video contains major game spoilers, it is strongly advised to avoid watching this video before buying and fully played the entire game.
+
+NOTE: This series only present 20% of the game details and shouldn't be considered a full gaming experience.
+
+### 台灣中文<br>Chinese(Taiwan)
+劇透警告：本影片包含了遊戲主要內容的劇透，強烈建議您在觀看本影片前先購買並完全玩完這個遊戲
+
+注意：本系列只呈現了 20% 的遊戲細節且不應被視為完整的遊戲體驗
+
 ## 影片原始語言<br>Video Original Language
 英文  
 English
