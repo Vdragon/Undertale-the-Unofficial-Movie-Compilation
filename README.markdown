@@ -9,6 +9,9 @@ The gaming materials featured in these videos is 100% Tobyfox's intellectual pro
 ### Closed Captions
 The subtitles are licensed using Creative Commons BY-SA license, version 4.0 or any later version you like
 
+## 託管影片的位置<br>Location of Hosted Videos
+[Undertale the Unofficial Movie Compilation \- YouTube](https://www.youtube.com/playlist?list=PL7mizeZv_2tjMocd0kxebbKhhHdlDQtGn)
+
 ## 特色<br>Features
 ### Less Missing Details
 This series is made by an acquainted player of Undertale and is attempt to make sure that most necessary gaming details are recorded in this video
