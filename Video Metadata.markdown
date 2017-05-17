@@ -23,6 +23,7 @@ The materials featured in these videos is 100% Tobyfox's intellectual property, 
 
 NOTE: The video title is not stabilize yet and may change in the future
 
+Playlist: https://www.youtube.com/playlist?list=PL7mizeZv_2tjMocd0kxebbKhhHdlDQtGn
 Project site: https://github.com/Vdragon/Undertale-the-Unofficial-Movie-Compilation
 ```
 
@@ -36,6 +37,7 @@ http://undertale.com
 
 注意：影片標題尚未完全確定且可能於未來被變更
 
+播放清單：https://www.youtube.com/playlist?list=PL7mizeZv_2tjMocd0kxebbKhhHdlDQtGn
 專案網站：https://github.com/Vdragon/Undertale-the-Unofficial-Movie-Compilation
 ```
 
