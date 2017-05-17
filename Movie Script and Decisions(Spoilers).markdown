@@ -13,6 +13,7 @@ Intro with no skipping, that's all
 ### Range
 * Flowey's battle
 * Toriel's introduction(Not separateble because of the timing difficulty)
+* 1st save point
 
 ### Strategy in Flowey's fight
 DODGE.  It is expected that the player to see the game's trailer before playing the game, the player should already know that this game's fighting style is "bullet hell" and should dodge Flowey's "friendliness pellets"
