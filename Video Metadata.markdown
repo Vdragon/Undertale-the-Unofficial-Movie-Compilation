@@ -72,3 +72,19 @@ Allowed
 ## 營利<br>Monetize
 Disabled  
 停用
+
+## Youtube 資訊卡<br>Youtube Infocard
+### 類型<br>Type
+連結
+
+### 連結網址<br>Link Address
+https://tobyfox.bandcamp.com
+
+### 資訊卡標題
+UNDERTALE Soundtrack, by toby fox
+
+### 行動號召
+Buy the soundtrack!
+
+### 前導文字
+`OST: <soundtrack title>`
