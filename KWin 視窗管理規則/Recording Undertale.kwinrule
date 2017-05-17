@@ -1,0 +1,17 @@
+[UNDERTALE 的應用程式設定]
+Description=UNDERTALE 的應用程式設定
+ignoregeometry=true
+ignoregeometryrule=2
+position=1577,102
+positionrule=2
+screen=0
+screenrule=3
+size=1280,720
+sizerule=2
+strictgeometry=true
+strictgeometryrule=2
+title=UNDERTALE
+titlematch=0
+wmclass=
+wmclasscomplete=false
+wmclassmatch=1
