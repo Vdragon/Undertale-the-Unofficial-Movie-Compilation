@@ -52,9 +52,9 @@ Follow instructions without trying the apparently wrong one
 * We don't go to the monster candy room first because the save point is the most noticible target
 
 ### Errata
-* Window lose focus for short time
+* Window lose focus for few times
 * Not immediatly get the calls
-* Accidentally skipped dialog of snoring dog, which shouldn't happen as we merely know how to skip conversation yet
+* Accidentally skipped dialog of snoring dog, which shouldn't happen as we merely know how to skip conversation yet(apparently this leads to the missing skip dialog Froggit in F4 room causing a recast)
 * Some rare timing BGM pitched up(dunno why)
 
 ## 1.1. The Ruins(part 2)
