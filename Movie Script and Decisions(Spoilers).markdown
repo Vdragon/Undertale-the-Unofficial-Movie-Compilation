@@ -1,6 +1,9 @@
 # Movie Script and Decisions
 This contains the script used in this series, with decisions and it's reasoning
 
+## Important Note
+* Don't skip conversation until you meet the skip conversation hint Froggit, or it'll disappear
+
 ## 1. Once Upon a Time 
 Intro with no skipping, that's all
 
