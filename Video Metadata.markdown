@@ -59,7 +59,7 @@ NOTE: This series only present 20% of the game details and shouldn't be consider
 English
 
 ## 影片類別<br>Video Category
-遊戲(Undertale)
+遊戲(Undertale (2015))
 
 ## 授權<br>Licensing
 Standard Youtube Licensing  
