@@ -26,11 +26,11 @@ NOTE: This series only present 20% of the game details and shouldn't be consider
 ## Video Description
 ### Original(English(en))
 ```
-This is an attempt to make the beloved UNDERTALE game by Tobyfox to something like a movie
+This is an attempt to make the beloved UNDERTALE game by Toby Fox to something like a movie
 
 http://undertale.com
 
-The materials featured in these videos is 100% Tobyfox's intellectual property, which is used under the fair use principle.
+The materials featured in these videos is 100% Toby Fox's intellectual property, which is used under the fair use principle.
 
 NOTE: The video title is not stabilize yet and may change in the future
 
@@ -41,11 +41,11 @@ This project's development is powered by SimpleScreenRecorder, K Desktop Environ
 
 ### 台灣中文(zh-TW)
 ```
-這是個將由 Tobyfox 所作廣受玩家愛戴的 UNDERTALE 遊戲做成像是電影一樣的東西的嘗試
+這是個將由 Toby Fox 所作廣受玩家愛戴的 UNDERTALE 遊戲做成像是電影一樣的東西的嘗試
 
 http://undertale.com
 
-這些影片中呈現的內容為 100% Tobyfox 的智慧財產，以合理使用原則下使用
+這些影片中呈現的內容為 100% Toby Fox 的智慧財產，以合理使用原則下使用
 
 注意：影片標題尚未完全確定且可能於未來被變更
 
