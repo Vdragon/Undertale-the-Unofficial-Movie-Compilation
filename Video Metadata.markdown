@@ -36,7 +36,7 @@ NOTE: The video title is not stabilize yet and may change in the future
 
 Playlist: https://www.youtube.com/playlist?list=PL7mizeZv_2tjMocd0kxebbKhhHdlDQtGn
 Project site: https://github.com/Vdragon/Undertale-the-Unofficial-Movie-Compilation
-This project's development is powered by SimpleScreenRecorder, K Desktop Environment(KDE), and Youtube Video Editor
+This project's development is powered by SimpleScreenRecorder, K Desktop Environment(KDE), Youtube Video Editor and Amara subtitle internationalization service
 ```
 
 ### 台灣中文(zh-TW)
@@ -51,7 +51,7 @@ http://undertale.com
 
 播放清單：https://www.youtube.com/playlist?list=PL7mizeZv_2tjMocd0kxebbKhhHdlDQtGn
 專案網站：https://github.com/Vdragon/Undertale-the-Unofficial-Movie-Compilation
-本專案之完成得力於 SimpleScreenRecorder、K 桌面環境(KDE)以及 Youtube 影片編輯器
+本專案之完成得力於 SimpleScreenRecorder、K 桌面環境(KDE)、Youtube 影片編輯器以及 Amara 字幕國際化服務
 ```
 
 ## 影片原始語言<br>Video Original Language
