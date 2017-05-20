@@ -55,9 +55,32 @@ Follow instructions without trying the apparently wrong one
 * We don't go to the monster candy room first because the save point is the most noticible target
 
 ### Errata
-* Window lose focus for few times
-* Not immediatly get the calls
-* Accidentally skipped dialog of snoring dog, which shouldn't happen as we merely know how to skip conversation yet(apparently this leads to the missing skip dialog Froggit in F4 room causing a recast)
+* (fixed)<del>Window lose focus for few times<del>
+* (fixed)<del>Not immediatly get the calls</del>
+* (fixed)<del>Accidentally skipped dialog of snoring dog, which shouldn't happen as we merely know how to skip conversation yet(apparently this leads to the missing skip dialog Froggit in F4 room causing a recast)</del>
 * Some rare timing BGM pitched up(dunno why)
 
 ## 1.1. The Ruins(part 2)
+### Range
+1. monster candy room
+1. "Home" save point
+
+### 1.1. Monster Candy Room
+* Only get one candy as instructed
+* Check wall even if doesn't work
+
+### 1.1. Whimsun Battles
+* First CHECK & CONSOLE, then simply just spare them
+	* It is assumed that the player knows about the function of "yellow names" for now
+
+### 1.1. Froggit Battles
+* COMPLIMENT then SPARE(we've CHECK'ed Froggit in previous battle)
+
+### 1.1. Hole Puzzle
+* left exit first(so player knows the logic), then right
+
+### 1.1.1. Toriel's Preference Call - Cinnamon or Butterscotch?
+* Both are OK, director's decision
+
+### 1.1.1. The fourth rock
+* Trigger additional dialogs by pushing them when rock has moved to the expected location
