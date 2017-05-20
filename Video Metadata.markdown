@@ -66,8 +66,7 @@ Standard Youtube Licensing
 標準 Youtube 授權
 
 ## 社群協力翻譯<br>Community-based Translations
-Allowed  
-允許
+We use Amara for translation, so this is not enabled.
 
 ## 營利<br>Monetize
 Disabled  
