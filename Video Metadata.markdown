@@ -83,7 +83,7 @@ https://tobyfox.bandcamp.com
 UNDERTALE Soundtrack, by toby fox
 
 ### 行動號召
-Buy the soundtrack!
+Buy the soundtrack! / 購買遊戲原聲帶！
 
 ### 前導文字
-`OST: <soundtrack title>`
+`OST: <soundtrack title> / <soundtrack title translation>`
